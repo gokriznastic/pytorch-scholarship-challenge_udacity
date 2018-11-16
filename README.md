@@ -6,8 +6,8 @@ A collection of concepts, notebooks and projects done as a part of Udacity's Pyt
 
 ### Lesson 2
 ### Introduction to Neural Networks
-[Lesson 2 notes](udacity_pytorch-scholarship-challenge/L2 intro-neural-networks/lesson2-notes.pdf)
+[Lesson 2 notes](lesson2-notes.pdf)
 
-[GradientDescent.ipynb](udacity_pytorch-scholarship-challenge/L2 intro-neural-networks/gradient-descent/GradientDescent.ipynb)
+[Notebook: Gradient Descent](gradient-descent)
 
-[StudentAdmissions.ipynb](udacity_pytorch-scholarship-challenge/L2 intro-neural-networks/student-admissions/StudentAdmissions.ipynb)
+[Notebook: Analyzing Student Data](student-admissions)
