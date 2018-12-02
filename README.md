@@ -34,3 +34,13 @@ Hear from [Soumith Chintala](https://github.com/soumith), the creator of PyTorch
 [7 - Loading Image Data](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L4%20intro-to-pytorch/Part%207%20-%20Loading%20Image%20Data.ipynb)
 
 [8 - Transfer Learning](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L4%20intro-to-pytorch/Part%208%20-%20Transfer%20Learning.ipynb)
+
+
+## Lesson 5
+### Convolutional Neural Networks
+
+[Notebook: MNIST-MLP](mnist-mlp)
+
+[Convolutional Layer Visualization (Notebooks)](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/tree/master/L5%20convolutional-neural-networks/conv-visualization/)
+
+[CIFAR 10 Classification (Notebooks)](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/tree/master/L5%20convolutional-neural-networks/cifar-cnn)
