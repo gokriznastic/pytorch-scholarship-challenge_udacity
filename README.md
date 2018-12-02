@@ -6,11 +6,11 @@ A collection of concepts, notebooks and projects done as a part of Udacity's Pyt
 
 ## Lesson 2
 ### Introduction to Neural Networks
-[Lesson 2 notes](lesson2-notes.pdf)
+[Lesson 2 notes](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L2%20intro-neural-networks/lesson2-notes.pdf)
 
-[Notebook: Gradient Descent](gradient-descent)
+[Notebook: Gradient Descent](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L2%20intro-neural-networks/gradient-descent/GradientDescent.ipynb)
 
-[Notebook: Analyzing Student Data](student-admissions)
+[Notebook: Analyzing Student Data](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L2%20intro-neural-networks/student-admissions/StudentAdmissions.ipynb)
 
 ## Lesson 3
 ### Talking PyTorch with Soumith Chintala
@@ -39,7 +39,7 @@ Hear from [Soumith Chintala](https://github.com/soumith), the creator of PyTorch
 ## Lesson 5
 ### Convolutional Neural Networks
 
-[Notebook: MNIST-MLP](mnist-mlp)
+[Notebook: MNIST-MLP](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L5%20convolutional-neural-networks/mnist-mlp/mnist_mlp_exercise.ipynb)
 
 [Convolutional Layer Visualization (Notebooks)](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/tree/master/L5%20convolutional-neural-networks/conv-visualization/)
 
