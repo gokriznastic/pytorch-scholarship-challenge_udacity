@@ -44,3 +44,8 @@ Hear from [Soumith Chintala](https://github.com/soumith), the creator of PyTorch
 [Convolutional Layer Visualization (Notebooks)](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/tree/master/L5%20convolutional-neural-networks/conv-visualization/)
 
 [CIFAR 10 Classification (Notebooks)](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/tree/master/L5%20convolutional-neural-networks/cifar-cnn)
+
+## Lesson 6
+### Style Transfer
+
+[Notebook: Neural Style Transfer](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L6%20style-transfer/Style_Transfer.ipynb)
