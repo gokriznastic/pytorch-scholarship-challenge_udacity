@@ -27,7 +27,7 @@ Hear from [Soumith Chintala](https://github.com/soumith), the creator of PyTorch
 
 [4 - Fashion-MNIST](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L4%20intro-to-pytorch/Part%204%20-%20Fashion-MNIST.ipynb)
 
-[5 - Inference and Validation](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L4%20intro-to-pytorch/Part%205%20-%20Inference%20and%20Validation.ipynb)
+[5 - Inference and Validation](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L8%20sentiment-rnn/Sentiment_RNN.ipynb)
 
 [6 - Saving and Loading Models](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L4%20intro-to-pytorch/Part%206%20-%20Saving%20and%20Loading%20Models.ipynb)
 
