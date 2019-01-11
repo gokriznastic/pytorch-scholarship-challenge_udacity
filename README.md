@@ -50,10 +50,21 @@ Hear from [Soumith Chintala](https://github.com/soumith), the creator of PyTorch
 
 [Notebook: Neural Style Transfer](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L6%20style-transfer/Style_Transfer.ipynb)
 
-## Lesson 5
+## Lesson 7
 ### Recurrent Neural Networks
 
 [Character level RNN and LSTM (Notebook)](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L7%20recurrent-neural-networks/char-rnn/Character_Level_RNN.ipynb)
 
 [Time Series using RNN (Notebook)](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L7%20recurrent-neural-networks/time-series/Simple_RNN.ipynb)
+
+## Lesson 8
+### Sentiment Prediction with RNNs
+
+[Notebook: Sentiment Prediction with RNNs](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L8%20sentiment-rnn/Sentiment_RNN_Solution.ipynb)
+
+## Lesson 9
+### Deploying PyTorch Models
+
+## Challenge Project
+[Coming Soon]
 
