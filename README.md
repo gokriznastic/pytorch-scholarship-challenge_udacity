@@ -60,7 +60,7 @@ Hear from [Soumith Chintala](https://github.com/soumith), the creator of PyTorch
 ## Lesson 8
 ### Sentiment Prediction with RNNs
 
-[Notebook: Sentiment Prediction with RNNs](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L8%20sentiment-rnn/Sentiment_RNN_Solution.ipynb)
+[Notebook: Sentiment Prediction with RNNs](https://github.com/gokriznastic/udacity_pytorch-scholarship-challenge/blob/master/L8%20sentiment-rnn/Sentiment_RNN.ipynb)
 
 ## Lesson 9
 ### Deploying PyTorch Models
